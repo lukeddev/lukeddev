@@ -3,7 +3,7 @@
 - 🔭 Ainda não estou com nenhum trabalho na área de programação, mas chegarei lá!
 - 🌱 Atualmente estou aprendendo Python! 
 - 💬 Adoro falar de filmes, animes, jogos e livros!
-- ⚡ Tenho conhecimento em muitas áreas como; design gráfico, arquitetura, redes de fibra óptica, modelagem 3d.
+- ⚡ Tenho conhecimento em muitas áreas como; design gráfico, arquitetura, redes de fibra óptica, marketing digital, modelagem 3d.
 - 😄 Pronouns: ele/dele
 - 🙌 Sou cristão!
 
