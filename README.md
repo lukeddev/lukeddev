@@ -16,8 +16,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="luke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="luke-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="luke-cartoonversion" height="100" width="100" src="https://imgur.com/a/2BdJzgn">
+  <img align="right" alt="luke-cartoonversion" height="100" width="100" src="https://i.imgur.com/E1GQJLh.jpg">
 </div>
 
 ##
