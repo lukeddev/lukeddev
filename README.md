@@ -3,6 +3,7 @@
 - 🔭 Ainda não estou com nenhum trabalho na área de programação, mas chegarei lá!
 - 🌱 Atualmente estou aprendendo o básico do front end! 
 - 💬 Adoro falar de filmes, animes, jogos e livros!
+- 🤖 Apaixonado por inteligencia artificial!
 - ⚡ Tenho conhecimento em muitas áreas como; design gráfico, arquitetura, redes de fibra óptica, marketing digital, trafego no facebook, modelagem 3d.
 - 😄 Pronouns: ele/dele
 - 🙌 Sou católico!
