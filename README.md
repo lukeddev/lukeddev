@@ -5,7 +5,6 @@
 - 💬 Adoro falar de filmes, animes, jogos e livros!
 - 🤖 Apaixonado por inteligencia artificial!
 - ⚡ Tenho conhecimento em muitas áreas como; design gráfico, arquitetura, redes de fibra óptica, marketing digital, trafego no facebook, modelagem 3d.
-- 😄 Pronouns: ele/dele
 - 🙌 Sou católico!
 
 <div>
